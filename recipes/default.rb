@@ -1,10 +1,3 @@
-#
-# Cookbook Name:: apache
-# Recipe:: default
-#
-# All rights reserved - Do Not Redistribute
-#
-
 #Run apt-get update
 
 execute "apt-get update" do
