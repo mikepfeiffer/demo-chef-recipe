@@ -1,4 +1,9 @@
-#Run apt-get update
+#
+# Cookbook Name:: simple_demo
+# Recipe:: default
+#
+# All rights reserved - Do Not Redistribute
+#
 
 execute "apt-get update" do
     command "apt-get update"
